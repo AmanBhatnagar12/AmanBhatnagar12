@@ -1,11 +1,19 @@
 - 👋 Hi, Im Aman Bhatnagar
 - 👀 I’m interested in Computer Science , Mathematics .
+
 - 🌱 I’m currently learning 
-#1 . C++
-#2 . Linux 
-- 💞️ I’m looking to collaborate on ...
+- #1 . C++
+
+- #2 . Linux 
+
+- #3 . Ethical Hacking 
+- #4 . Networking 
+- #5 . Java 
+And Much more ................
+
+
 - 📫 How to reach me 
-@AmanBhatnagar47
+- @AmanBhatnagar47
 
 <!---
 AmanBhatnagar12/AmanBhatnagar12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
