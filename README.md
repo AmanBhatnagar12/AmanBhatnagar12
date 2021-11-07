@@ -11,7 +11,7 @@
 - #5 . Java 
 And Much more ................
 
-I’m currently working on AliceDOS, a command-line based operating system, with @ppranav06
+I’m currently working on AliceDOS, a command-line based operating system, with https://github.com/ppranav06
 - 📫 How to reach me 
 - @AmanBhatnagar47
 
