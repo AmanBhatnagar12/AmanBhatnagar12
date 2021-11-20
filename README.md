@@ -11,9 +11,10 @@
 - #5 . Java 
 And Much more ................
 
-I’m currently working on AliceDOS, a command-line based operating system, with https://github.com/ppranav06
+I’m currently working on AliceDOS, a command-line based operating system, with https://github.com/ppranav06 @ppranav
 - 📫 How to reach me 
 - @AmanBhatnagar47
+
 
 <!---
 AmanBhatnagar12/AmanBhatnagar12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
