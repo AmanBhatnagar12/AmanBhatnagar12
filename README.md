@@ -1,4 +1,4 @@
-- 👋 Hi, Im Aman Bhatnagar
+# 👋 Hi, Im Aman Bhatnagar
 - 👀 I’m interested in Computer Science , Mathematics .
 
 - 🌱 I’m currently learning 
@@ -10,8 +10,9 @@
 - #4 . Networking 
 - #5 . Java 
 And Much more ................
+---
 
-I’m currently working on AliceDOS, a command-line based operating system, with https://github.com/ppranav06 @ppranav06
+I’m currently working on AliceDOS, a command-line based operating system, with [https://github.com/ppranav06] @ppranav06
 - 📫 How to reach me 
 - @AmanBhatnagar47
 
