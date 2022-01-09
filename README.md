@@ -1,20 +1,31 @@
 # 👋 Hi, Im Aman Bhatnagar
-- 👀 I’m interested in Computer Science , Mathematics .
+- <strong>👀 I’m interested in Computer Science , Mathematics .</strong>
 
-- 🌱 I’m currently learning 
-- #1 . C++
+- ### 🌱 I’m currently learning 
+- ### 1. C++
 
-- #2 . Linux 
+- ### 2. Linux 🐧
 
-- #3 . Ethical Hacking 
-- #4 . Networking 
-- #5 . Java 
-And Much more ................
+- ### 3 Ethical Hacking 
+- ### 4. Networking 
+- ### 5. Java 
+- ### 6. Full Stack Development
+- ###  And Much more ................
+- --
+- ## Fun Fact :D - Im interested more in System Level Software Development Stack 
+- ## C/C++,Rust,OS Concepts -Driver ,Kernel etc .
+
+
+
 ---
 
-I’m currently working on AliceDOS, a command-line based operating system, with [https://github.com/ppranav06] @ppranav06
+I’m currently working on AliceDOS, a CLI based OS  with (https://github.com/ppranav06) Pranav Krishna 
+- [Currently on Hold due to exams]
+- -----------
+- Contact 
 - 📫 How to reach me 
-- @AmanBhatnagar47
+- @AmanBhatnagar47[Twitter]
+
 
 
 <!---
