@@ -1,5 +1,5 @@
 # 👋 Hi, Im Aman Bhatnagar
-- <strong>👀 I’m interested in Computer Science , Mathematics .</strong>
+- #### 👀 I’m interested in Computer Science , Mathematics .</strong>
 
 - ### 🌱 I’m currently learning 
 - ### 1. C++
@@ -19,12 +19,12 @@
 
 ---
 
-I’m currently working on AliceDOS, a CLI based OS  with (https://github.com/ppranav06) Pranav Krishna 
+I’m currently working on AliceOS, a CLI based OS  with (https://github.com/ppranav06) Pranav Krishna 
 - [Currently on Hold due to exams]
 - -----------
-- Contact 
-- 📫 How to reach me 
-- @AmanBhatnagar47[Twitter]
+- #### Contact 🙂  
+
+- ### 📫 @AmanBhatnagar47[Twitter]
 
 
 
