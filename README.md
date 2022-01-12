@@ -1,4 +1,5 @@
-# 👋 Hi, Im Aman Bhatnagar
+#  ![HelloTherePrivateFromPenguinsOfMadagascarGIF](https://user-images.githubusercontent.com/93813737/149092362-9b710a50-647e-4cbb-9271-47670e6d5a79.gif)
+# Hi, Im Aman Bhatnagar
 - #### 👀 I’m interested in Computer Science , Mathematics .</strong>
 
 - ### 🌱 I’m currently learning 
