@@ -10,7 +10,8 @@
 - ### 3 Ethical Hacking 
 - ### 4. Networking 
 - ### 5. Java 
-- ### 6. Full Stack Development
+- ### 7 . Rust 🦀
+- ### 6. Full Stack Development </>
 - ###  And Much more ................
 - --
 - ## Fun Fact :D - Im interested more in System Level Software Development Stack 
