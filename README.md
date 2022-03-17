@@ -19,13 +19,13 @@
 
 ```
 Catch me in your Terminal 🤗 
-java aman.java 
+java aman.java / javac aman.java 
 ```
 
 ---
 
 I’m currently working on AliceOS, a CLI based OS  with (https://github.com/ppranav06) Pranav Krishna 
-- [Currently on Hold due to exams]
+- [Currently on Hold due to academics]
 - -----------
 - #### Contact 🙂  
 
