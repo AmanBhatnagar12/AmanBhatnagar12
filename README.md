@@ -6,9 +6,9 @@
 - ### 🌱 I’m currently learning 
 
 
-- ### C and Arduino 
-- ###   Hardware 
-- ###   Java
+- ### C  
+- ### Hardware 
+- ### Java
 
 ----------------------
 
