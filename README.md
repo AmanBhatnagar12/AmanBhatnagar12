@@ -16,7 +16,6 @@
 - ###  Linux 🐧
 - ###  Networking 
 - ###   Rust 🦀
-- ###   Bash Scripting 
 - ###  And Much more ................
 
 
@@ -34,7 +33,7 @@ java aman.java / javac aman.java
 - -----------
 - #### Contact 🙂  
 
-- ### 📫 @AmanBhatnagar47[Twitter]
+- ### 📫 @AmanBhatnagar47[Twitter] / [@bhatnagaraman12](https://twitter.com/bhatnagaraman12)
 
 
 
