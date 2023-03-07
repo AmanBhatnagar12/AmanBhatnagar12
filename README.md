@@ -7,7 +7,7 @@
 
 
 - ### C  
-- ### Hardware 
+- ### Computer Repairing
 - ### Java
 
 ----------------------
