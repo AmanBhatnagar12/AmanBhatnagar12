@@ -6,7 +6,7 @@
 - ### 🌱 I’m currently learning 
 
 
-- ### C  
+- ### C Programming
 - ### Computer Repairing
 - ### Java
 
